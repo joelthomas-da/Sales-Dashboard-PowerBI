@@ -196,11 +196,8 @@ A scatter chart reveals a strong positive relationship between Profit and Net Sa
 
 ### Overview Dashboard
 
-[*(Add screenshot here)*]
+https://github.com/joelthomas-da/Sales-Dashboard-PowerBI/blob/main/Dashboard/Overview.png
 
-```markdown
-(https://github.com/joelthomas-da/Sales-Dashboard-PowerBI/blob/main/Dashboard/Overview.png)
-```
 
 ### Order Analysis Dashboard
 

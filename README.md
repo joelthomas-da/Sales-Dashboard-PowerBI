@@ -208,7 +208,7 @@ A scatter chart reveals a strong positive relationship between Profit and Net Sa
 
 ### Comparsion of Sales, Profit and Quantity
 
-![](Dashboard/ComparsionofSales,profit,quantity.png)
+![](Dashboard/sales_profit_quantity.png)
 
 ### Table Visual
 
